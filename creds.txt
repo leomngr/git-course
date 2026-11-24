@@ -1,2 +1,0 @@
-username=username12
-password=pas123
